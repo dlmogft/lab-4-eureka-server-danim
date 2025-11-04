@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "lab-4-eureka-server-training",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
